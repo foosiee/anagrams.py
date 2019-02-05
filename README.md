@@ -6,6 +6,6 @@ much of this code from: https://medium.com/@promentol/anagram-finding-app-with-p
 
 I simply added finding all 3 letter and above combinations of the anagram. 
 
-So this algorithm returns any word contained within the anagram the is 3 words or greater 
+So this algorithm returns any word contained within the anagram that is 3 words or greater 
 
 word txt file from: https://github.com/dwyl/english-words
