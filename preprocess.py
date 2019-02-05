@@ -1,3 +1,4 @@
+# code from medium article
 dict = {}
 
 f = open("words.txt", "r")
