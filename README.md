@@ -1,6 +1,6 @@
 # anagrams.py
 
-beat anyone at anagrams 
+beat anyone at the ios message anagrams game
 
 much of this code from: https://medium.com/@promentol/anagram-finding-app-with-python-part-1-algorithm-implementation-b2ccbf7208be . 
 
