@@ -1,3 +1,4 @@
+# code from medium article
 import pickle
 from itertools import combinations
 with open('words.pickle', 'rb') as f:
@@ -12,6 +13,7 @@ def solver(a):
     else:
         return []
 
+# my code begins here
 x = input("enter anagram phrase: ")
 x = [''.join(l) for i in range(len(x)) for l in combinations(x, i+1)]
 
